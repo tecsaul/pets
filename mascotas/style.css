@@ -1,0 +1,19 @@
+h1{
+    text-align: center; 
+    color: chocolate;
+        
+}
+div.w-33{
+    width: auto;
+    background-color: brown;
+}
+div.center{
+    text-align: center;
+}
+.button1{
+    padding: 3%;
+    background-color: white; 
+    color: black; 
+    border: 2px solid blue;
+
+}
